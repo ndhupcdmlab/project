@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/SparkIncSeqPatMining/src/main/resources/input,/home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/input)[0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/SparkIncSeqPatMining/src/main/resources/config,/home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/config)[0m
+[0m[[0mdebug[0m] [0m	(/home/hduser/SparkIncSeqPatMining/src/main/resources/config5,/home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/config5)[0m

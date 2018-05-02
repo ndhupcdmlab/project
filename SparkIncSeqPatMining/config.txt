@@ -1,0 +1,3 @@
+wsize 60
+sliding 10
+threshold 5

@@ -1,0 +1,294 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+16 items
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> /home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$main$1.class
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> /home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$main$2.class
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> /home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$main$3$$anonfun$apply$1.class
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> /home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$main$3$$anonfun$apply$2.class
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> /home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$main$3.class
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> /home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$main$4.class
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> /home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$main$5.class
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> /home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$unitCountRDD$1.class
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> /home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$unitCountRDD$2.class
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> /home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$unitCountRDD$3$$anonfun$apply$3.class
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> /home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$unitCountRDD$3$$anonfun$apply$4.class
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> /home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$unitCountRDD$3.class
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> /home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$unitCountRDD$4.class
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> /home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$unitCountRDD$5.class
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> /home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$.class
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> /home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining.class
+binary dependencies:
+5 items
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> /home/hduser/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> /home/hduser/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> /home/hduser/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> /home/hduser/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+16 items
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> SparkIncSeqPatMining
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> SparkIncSeqPatMining$
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> SparkIncSeqPatMining$$anonfun$main$1
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> SparkIncSeqPatMining$$anonfun$main$2
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> SparkIncSeqPatMining$$anonfun$main$3
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> SparkIncSeqPatMining$$anonfun$main$3$$anonfun$apply$1
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> SparkIncSeqPatMining$$anonfun$main$3$$anonfun$apply$2
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> SparkIncSeqPatMining$$anonfun$main$4
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> SparkIncSeqPatMining$$anonfun$main$5
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> SparkIncSeqPatMining$$anonfun$unitCountRDD$1
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> SparkIncSeqPatMining$$anonfun$unitCountRDD$2
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> SparkIncSeqPatMining$$anonfun$unitCountRDD$3
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> SparkIncSeqPatMining$$anonfun$unitCountRDD$3$$anonfun$apply$3
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> SparkIncSeqPatMining$$anonfun$unitCountRDD$3$$anonfun$apply$4
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> SparkIncSeqPatMining$$anonfun$unitCountRDD$4
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> SparkIncSeqPatMining$$anonfun$unitCountRDD$5
+used names:
+157 items
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> %
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> *
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> +
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> -
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> <init>
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> ==
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> >
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> >=
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> A
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Any
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> AnyRef
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Array
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> ArrayList
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> ArrayOps
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> B
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Boolean
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> BufferedSource
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> BufferedWriter
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> CanBuildFrom
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> CharSequence
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Class
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> ClassTag
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Codec
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Coll
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Duration
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> File
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> FileWriter
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Function1
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Function2
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> GenTraversableOnce
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Inclusive
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> IndexedSeq
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Instant
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Int
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Iterator
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> K
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Level
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Logger
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Long
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Nothing
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> OFF
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Object
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Ordering
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> PairRDDFunctions
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Path
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Predef
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> RDD
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Range
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> RichInt
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> ScalaRunTime
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Source
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> SparkConf
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> SparkContext
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> SparkIncSeqPatMining
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> String
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> StringOps
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> T
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> T1
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> T2
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Temporal
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> That
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> TraversableOnce
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Tuple2
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> U
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Unit
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> V
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> Writer
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> _$3
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> _$4
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> _$7
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> _2
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> a
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> apache
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> apply
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> arrayClass
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> augmentString
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> between
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> bw
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> cache
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> canBuildFrom
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> close
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> combinations
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> config
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> contains
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> datapath
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> emptyRDD
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> exists
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> fallbackSystemCodec
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> file
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> filter
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> flatMap
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> foreach
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> fromFile
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> getLines
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> getRootLogger
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> grdd
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> immutable
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> intWrapper
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> io
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> isPath
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> java
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> keys
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> length
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> log4j
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> map
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> mapValues
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> materializeClassTag
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> math
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> mkString
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> next
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> now
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> org
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> outpath
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> package
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> persist
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> println
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> qual$1
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> rdd
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> rddToPairRDDFunctions
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> reduceByKey
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> refArrayOps
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> reflect
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> runtimeend
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> runtimestart
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> saveAsTextFile
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> sc
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> scala
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> setAppName
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> setLevel
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> setMaster
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> sliding
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> slidingtmp
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> spark
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> split
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> t
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> textFile
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> threshold
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> time
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> to
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> toInt
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> toMillis
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> trans
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> uid
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> union
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> unitCountRDD
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> unitRDDs
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> unitrdd
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> unpersist
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> update
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> util
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> while$1
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> windowend
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> windowstart
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> write
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> wsize
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> x
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> x$11
+product stamps:
+16 items
+/home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$main$1.class -> lastModified(1504868532000)
+/home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$main$2.class -> lastModified(1504868532000)
+/home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$main$3$$anonfun$apply$1.class -> lastModified(1504868532000)
+/home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$main$3$$anonfun$apply$2.class -> lastModified(1504868532000)
+/home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$main$3.class -> lastModified(1504868532000)
+/home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$main$4.class -> lastModified(1504868532000)
+/home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$main$5.class -> lastModified(1504868532000)
+/home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$unitCountRDD$1.class -> lastModified(1504868532000)
+/home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$unitCountRDD$2.class -> lastModified(1504868532000)
+/home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$unitCountRDD$3$$anonfun$apply$3.class -> lastModified(1504868532000)
+/home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$unitCountRDD$3$$anonfun$apply$4.class -> lastModified(1504868532000)
+/home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$unitCountRDD$3.class -> lastModified(1504868532000)
+/home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$unitCountRDD$4.class -> lastModified(1504868532000)
+/home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$$anonfun$unitCountRDD$5.class -> lastModified(1504868532000)
+/home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining$.class -> lastModified(1504868532000)
+/home/hduser/SparkIncSeqPatMining/target/scala-2.11/classes/SparkIncSeqPatMining.class -> lastModified(1504868532000)
+source stamps:
+1 items
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> hash(cf239fc8feb345008f9fffc67eddc9d8537c6642)
+binary stamps:
+5 items
+/home/hduser/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar -> lastModified(1338025419000)
+/home/hduser/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+/home/hduser/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/home/hduser/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar -> lastModified(1457105200000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1501205457000)
+class names:
+5 items
+/home/hduser/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar -> org.apache.log4j.Level
+/home/hduser/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar -> org.apache.spark.SparkContext
+/home/hduser/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.collection.TraversableOnce
+/home/hduser/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar -> scala.reflect.io.Path$
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwdODM0AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwJgWr1nQABm5vdGlmeXNxAH4ADBLA3s10AAR3YWl0c3EAfgAMOehfjnQADSRhc0luc3RhbmNlT2ZzcQB+AAwxwTTNdAAGZXF1YWxzc3EAfgAMyJn8+nQAFFNwYXJrSW5jU2VxUGF0TWluaW5nc3EAfgAMBIH8yXQADGFzSW5zdGFuY2VPZnNxAH4ADLB4KZ10AAxzeW5jaHJvbml6ZWRzcQB+AAyrIDO1dAACc2NzcQB+AAx8J7tGdAANJGlzSW5zdGFuY2VPZnNxAH4ADLn6mvN0AARtYWluc3EAfgAMlJfgtXQACW5vdGlmeUFsbHNxAH4ADOSgHxJ0AAxpc0luc3RhbmNlT2ZzcQB+AAy4OeCIdAAMdW5pdENvdW50UkREc3EAfgAMCmyoY3QAAj09c3EAfgAMNAGNQHQABWNsb25lc3EAfgAMjDwcJXQACHRvU3RyaW5nc3EAfgAMEB5oDHQAAiE9c3EAfgAMaf2ImnQACGdldENsYXNzc3EAfgAMzMC2OXQAAm5lc3EAfgAMYxPIJ3QAAmVxc3EAfgAM44+gu3QAAiMjc3EAfgAMFWidfXQACGZpbmFsaXplc3EAfgAMVWRCwHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ARXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAXdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBcc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AYXNxAH4AXHVxAH4AQAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ARnEAfgBPdXEAfgBQAAAAAHNxAH4AUgBxAH4AIXVxAH4AVAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBgdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AfHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGl4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFd0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHBbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGBzcQB+AG90AAVBcnJheXEAfgB1dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AG90AAZTdHJpbmdzcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3EAfgB7dAAEamF2YXNxAH4Ae3QABGxhbmdxAH4AgHNxAH4AXHVxAH4AQAAAAABzcQB+AFx1cQB+AJQAAAACc3EAfgBvdAAGT2JqZWN0cQB+AJhzcQB+AG90AANBbnlxAH4AdXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFeYSd1K3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADsvaG9tZS9oZHVzZXIvU3BhcmtJbmNTZXFQYXRNaW5pbmcvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFM8jn8j+s0UAj5//xn7dydhTfGZC
+external apis:
+0 items
+source infos:
+1 items
+/home/hduser/SparkIncSeqPatMining/src/main/scala/SparkIncSeqPatMining.scala -> 
+AAAAAAAAAAA=
+compilations:
+9 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXmAY6dF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9ob21lL2hkdXNlci9TcGFya0luY1NlcVBhdE1pbmluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXmBDr/N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9ob21lL2hkdXNlci9TcGFya0luY1NlcVBhdE1pbmluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXmCa1J91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9ob21lL2hkdXNlci9TcGFya0luY1NlcVBhdE1pbmluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXmChEAJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9ob21lL2hkdXNlci9TcGFya0luY1NlcVBhdE1pbmluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXmC8mQh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9ob21lL2hkdXNlci9TcGFya0luY1NlcVBhdE1pbmluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXmDHUah1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9ob21lL2hkdXNlci9TcGFya0luY1NlcVBhdE1pbmluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXmEVwDJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9ob21lL2hkdXNlci9TcGFya0luY1NlcVBhdE1pbmluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXmEavyZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9ob21lL2hkdXNlci9TcGFya0luY1NlcVBhdE1pbmluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+8 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXmEndSt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9ob21lL2hkdXNlci9TcGFya0luY1NlcVBhdE1pbmluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
